@@ -12,8 +12,8 @@
             Return Ins
         End Function
 
-        Public age = 1
-        ·
+        Private Shared age = 1
+
         Public Shared Function Info()
             MessageBox.Show("我是一个懒汉式的单例")
             MessageBox.Show("" + age.ToString)

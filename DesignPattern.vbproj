@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChainOfResp\Client.vb" />
+    <Compile Include="ChainOfResp\Director.vb" />
+    <Compile Include="ChainOfResp\GeneralManager.vb" />
+    <Compile Include="ChainOfResp\Leader.vb" />
+    <Compile Include="ChainOfResp\Manager.vb" />
+    <Compile Include="ChainOfResp\Require.vb" />
     <Compile Include="FactoryMethod\AodCar.vb" />
     <Compile Include="FactoryMethod\AodFactory.vb" />
     <Compile Include="FactoryMethod\BmwCar.vb" />
