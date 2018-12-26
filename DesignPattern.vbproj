@@ -79,6 +79,12 @@
     <Compile Include="ChainOfResp\Leader.vb" />
     <Compile Include="ChainOfResp\Manager.vb" />
     <Compile Include="ChainOfResp\Require.vb" />
+    <Compile Include="Facade\Client.vb" />
+    <Compile Include="Facade\Computer.vb" />
+    <Compile Include="Facade\Device.vb" />
+    <Compile Include="Facade\Hardware.vb" />
+    <Compile Include="Facade\Operation.vb" />
+    <Compile Include="Facade\Software.vb" />
     <Compile Include="FactoryMethod\AodCar.vb" />
     <Compile Include="FactoryMethod\AodFactory.vb" />
     <Compile Include="FactoryMethod\BmwCar.vb" />
